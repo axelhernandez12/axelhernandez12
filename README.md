@@ -2,7 +2,7 @@
 <h1 align="center">Hola Me llamo Axel Mauricio Hernandez Alvarado</h1>
 <h3 align="center">Soy estudiante de 1DAM</h3>
 
-- 🔭 Estoy trabajando en mis proyectos de java **Mapas para buscar aparcamiento en Madrid**
+- 🔭 Estoy trabajando en mis proyectos de java **Mi proyecto se llama Mapas para buscar aparcamiento en Madrid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
