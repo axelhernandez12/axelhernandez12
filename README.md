@@ -1,6 +1,6 @@
 # axelhernandez12
 <h1 align="center">Hola Me llamo Axel Mauricio Hernandez Alvarado</h1>
-<h3 align="center">Soy estudiante de 1DAM</h3>
+<h3 align="center">Soy estudiante de 2DAM</h3>
 
 - 🔭 Estoy trabajando en mis proyectos de java **Mi proyecto se llama Mapas para buscar aparcamiento en Madrid**
 
